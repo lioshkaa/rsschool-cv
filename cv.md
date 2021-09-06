@@ -18,7 +18,7 @@ I hope that my diligence and courses will help me get useful knowledge.
 - Git
 ***
 ## Sample code:
-``` Python: 
+ ``` Python 
 class Phones:
     dictionary = {}
 
@@ -108,7 +108,7 @@ fr1.find('Войтюнко')
 print('------------Весь справочник----------')
 ph1 = Phones('+1231651')
 ph1.print_phones()
-  ```
+```
   ## Education:
   - Grodno State Polytechnic College
  ***
